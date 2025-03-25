@@ -32,12 +32,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img ![roles](https://github.com/user-attachments/assets/3c79eb99-9f0e-4b83-8fe2-8802bbe3fb5e) 
 </p>
 <p>
   In the Admin panel on the Agents tab, go to roles and create a new role and name it supreme Admin. To set up departments for Ticket visiblity go to the departments tab and create a new department called (SysAdmins). To finish Instal Teams in the Admin Panel on the Agents tab, go to roles and teams(witch pulls agents from different departments) and name it 'online banking'. 
 </p>
 <br />
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
