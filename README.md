@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  In the Admin panel on the Agents tab, go to roles and create a new role and name it supreme Admin. To set up departments for Ticket visiblity go to the departments tab and create a new department called (SysAdmins) 
+  In the Admin panel on the Agents tab, go to roles and create a new role and name it supreme Admin. To set up departments for Ticket visiblity go to the departments tab and create a new department called (SysAdmins). To finish Instal Teams in the Admin Panel on the Agents tab, go to roles and teams(witch pulls agents from different departments) and name it 'online banking'. 
 </p>
 <br />
 
@@ -43,7 +43,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To allow anyone to create tickets, Go to the Admin Panel, go to settings, then user settings and UNCHECK the one that says unregistered users can create tickets. Also CHECK the tab Registration required to require agents to have a registration adn login to create tickets.
 </p>
 <br />
 
@@ -51,6 +51,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Now add new Agents 'jane'assign to the department SysAdmins, and 'john'assign department Support.Configure users go to the agent panel click on users, click add new to create users 'Karen' and 'Ken'.
 </p>
 <br />
